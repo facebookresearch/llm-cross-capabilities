@@ -1,0 +1,8 @@
+anthropic
+datasets
+google-generativeai
+openai
+Pillow
+reka-api
+scipy
+tiktoken
