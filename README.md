@@ -1,7 +1,7 @@
 # Law of the Weakest Link: Cross Capabilities of Large Language Models
 <p align="center">
-  <a href="https://maszhongming.github.io/CrossEval/"><img src="https://img.shields.io/badge/🌐-Website-red" height="25"></a>
-  <a href="https://maszhongming.github.io/CrossEval/"><img src="https://img.shields.io/badge/📝-Paper-blue" height="25"></a>
+  <a href="https://maszhongming.github.io/llm-cross-capabilities/"><img src="https://img.shields.io/badge/🌐-Website-red" height="25"></a>
+  <a href="https://maszhongming.github.io/llm-cross-capabilities/"><img src="https://img.shields.io/badge/📝-Paper-blue" height="25"></a>
   <a href="https://huggingface.co/datasets/MingZhong/crosseval" ><img src="https://img.shields.io/badge/🤗-CrossEval Benchmark-orange" height="25"></a>
 </p>
 
